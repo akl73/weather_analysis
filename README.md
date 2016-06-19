@@ -1,10 +1,6 @@
----
-title: "Weather events impact on the population health and economic issues in the US"
-author: "Anna Lenkiewicz"
-date: "June 16, 2016"
-output: html_document
----
-
+# Weather events impact on the population health and economic issues in the US
+## Author: Anna Lenkiewicz
+### Date: June 16, 2016
 
 
 ## Synopsis
